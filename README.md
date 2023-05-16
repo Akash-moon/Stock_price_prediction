@@ -25,23 +25,23 @@ Overall, this project aims to combine the power of numerical analysis and textua
 
 ## Implementation :
 
-**1.** Using Sckiit Learning(Building Machine Learning model)
+**1.** Using Sckiit Learning (**Building Machine Learning model**).
 
-**2.** Data Preprocessing using dataset(Using Numpy, Pandas and NLTK)
+**2.** Data Preprocessing using dataset (**Using Numpy, Pandas and NLTK**).
 
-**3.** Visualization of Dataset(Using Matplotlib and seaborn)
+**3.** Visualization of Dataset (**Using Matplotlib and seaborn**).
 
-**4.** Feature Scaling or Data Normalization(Using Normalization and Standaridation)
+**4.** Feature Scaling or Data Normalization (**Using Normalization and Standaridation**).
 
-**5.** Preparing the Datasets for training(Using sklearn)
+**5.** Preparing the Datasets for training (**Using sklearn**).
 
-**6.** Reshaping the datasets(Exculde unnecessary data)
+**6.** Reshaping the datasets (**Exculde unnecessary data**).
 
-**7.** Model development(Using different algorithms)
+**7.** Model development (**Using different algorithms**).
 
-**8.** Preprocessing the Data
+**8.** Preprocessing the Data.
 
-**9.** Predicting the Output
+**9.** Predicting the Output.
 
 ## Conclusion :
 
